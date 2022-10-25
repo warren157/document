@@ -230,3 +230,8 @@ public class LoadbalanceConfig {
 //RandomRobinLoadBalancer随机
 ```
 
+## 问题
+```
+1.为什么要用springcloud微服务，解决了什么问题
+2.eureka中注册的是什么信息
+```
